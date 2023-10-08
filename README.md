@@ -54,7 +54,9 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-	Tout le monde
+
+	Tout le monde et vraimentPersonne
+
 
 ## License
 
